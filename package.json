@@ -81,7 +81,7 @@
 				"AppImage",
 				"deb"
 			],
-			"icon": "build/ddtank7k7k",
+			"icon": "build/icons",
 			"category": "Network;Chat"
 		},
 		"win": {
